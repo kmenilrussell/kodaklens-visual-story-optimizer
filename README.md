@@ -335,11 +335,11 @@ For support, please:
 - [ ] Mobile app
 
 ---
-![Up<img width="1510" height="822" alt="Screenshot 2025-09-01 at 7 47 37 PM" src="https://github.com/user-attachments/assets/55ddb4ff-85a8-498f-bd07-28bf2e723292" />
-loading Screenshot 2025-09-01 at 7.46.46 PM.png…]()
-<img width="1512" height="820" alt="Screenshot 2025-09-01 at 7 46 37 PM" src="https://github.com/user-attachments/assets/867c83e7-32f1-4269-9c62-4bba848afccb" />
-<img width="1509" height="813" alt="Screenshot 2025-09-01 at 7 47 54 PM" src="https://github.com/user-attachments/assets/2f5f5b50-7233-4f90-b5ad-3b6553cbb355" />
-![Uploading Screenshot 2025-09-01 at 7.47.54 PM.png…]()
+<img width="1512" height="820" alt="Screenshot 2025-09-01 at 7 46 37 PM" src="https://github.com/user-attachments/assets/140cb4b0-2924-4750-867e-87287fa64aa3" />
+<img width="1509" height="801" alt="Screenshot 2025-09-01 at 7 46 46 PM" src="https://github.com/user-attachments/assets/1264862b-5f38-4e44-a2b3-22956f170890" />
+<img width="1510" height="822" alt="Screenshot 2025-09-01 at 7 47 37 PM" src="https://github.com/user-attachments/assets/e1838695-9eb3-479c-91b8-5e35f434799c" />
+<img width="1509" height="813" alt="Screenshot 2025-09-01 at 7 47 54 PM" src="https://github.com/user-attachments/assets/d1e9e184-381f-4e29-b835-07bd69e3042a" />
+
 
 
 **Built with ❤️ using modern web technologies**
