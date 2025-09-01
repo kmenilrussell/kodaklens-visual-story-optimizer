@@ -1,4 +1,4 @@
-# KodakLens - Visual Story Optimizer
+<img width="1509" height="801" alt="Screenshot 2025-09-01 at 7 46 46 PM" src="https://github.com/user-attachments/assets/6eb2b7af-a321-4d40-ac2c-2d56e7e9fc11" /><img width="1509" height="801" alt="Screenshot 2025-09-01 at 7 46 46 PM" src="https://github.com/user-attachments/assets/606c4284-d304-45cf-898a-ba6205601c58" /># KodakLens - Visual Story Optimizer
 
 A Jamstack web application that transforms uploaded photos into responsive, SEO-ready microsites with switchable templates, automated SEO & accessibility checks, and CMS-backed content management.
 
@@ -335,5 +335,11 @@ For support, please:
 - [ ] Mobile app
 
 ---
+![Up<img width="1510" height="822" alt="Screenshot 2025-09-01 at 7 47 37 PM" src="https://github.com/user-attachments/assets/55ddb4ff-85a8-498f-bd07-28bf2e723292" />
+loading Screenshot 2025-09-01 at 7.46.46 PM.png…]()
+<img width="1512" height="820" alt="Screenshot 2025-09-01 at 7 46 37 PM" src="https://github.com/user-attachments/assets/867c83e7-32f1-4269-9c62-4bba848afccb" />
+<img width="1509" height="813" alt="Screenshot 2025-09-01 at 7 47 54 PM" src="https://github.com/user-attachments/assets/2f5f5b50-7233-4f90-b5ad-3b6553cbb355" />
+![Uploading Screenshot 2025-09-01 at 7.47.54 PM.png…]()
+
 
 **Built with ❤️ using modern web technologies**
